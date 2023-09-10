@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dalvin Segura</h1>
-<h3 align="center">A passionate mobile developer from Dominican Republic</h3>
+<h3 align="center">A Dominican developer 🌴 passionate about the world of coding. 🚀 I'm a fullstack developer, with a focus on mobile development using React Native. Occasionally, I dabble in backend with ExpressJS and PostgreSQL. Always learning, always coding! 💻📱</h3>
 
 - 🔭 I’m currently working on **Instarecibo**
 
