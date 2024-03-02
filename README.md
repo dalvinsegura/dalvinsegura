@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Mobile and API development**
 
-- 📫 How to reach me **dalvinsegura18@hotmail.com**
+- 📫 How to reach me **dalvin@seguradev.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
