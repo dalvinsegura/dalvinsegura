@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dalvin Segura</h1>
 <h3 align="center">A Dominican developer 🌴 passionate about the world of coding. 🚀 I'm a fullstack developer, with a focus on mobile development using React Native. Occasionally, I dabble in backend with ExpressJS and PostgreSQL. Always learning, always coding! 💻📱</h3>
 
-- 🔭 I’m currently working on **Instarecibo**
+- 🔭 CEO & Lead Developer at <a href="https://seguradev.com/packie" target="blank">Packie</a>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin** and mastering React Native with Expo
 
 - 💬 Ask me about **Mobile and API development**
 
