@@ -21,7 +21,7 @@ Mobile developer from the Dominican Republic with over 4 years of experience. I 
 ## Skills
 
 **Mobile:** React Native, Expo, iOS/Android basics, Redux, React Navigation  
-**Web:** React, TypeScript, Node.js, Next.js, Tailwind  
+**Web:** React, TypeScript, Node.js, Next.js, Tailwind, Astro.js 
 **ML/Data:** Python, Data Analysis, scikit-learn, NLP (exploring)  
 **Business:** Product Development, User Research, Startup Leadership  
 
