@@ -16,7 +16,7 @@ Mobile developer from the Dominican Republic with over 4 years of experience. I 
 
 **Packie** - Delivery management system with real-time tracking, shipment creation, and optimized courier workflow.
 
-[**Sintesia**](https://www.sintesia.dalvin.site) - Independent R&D lab focused on building intelligent agents and automated workflows to solve complex real-world problems.
+[**Sintesia**](https://sintesia.dalvin.site) - Independent R&D lab focused on building intelligent agents and automated workflows to solve complex real-world problems.
 
 ## Skills
 
